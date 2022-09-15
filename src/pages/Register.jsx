@@ -4,7 +4,7 @@ import Header from '../components/header/Header';
 import  Newsletters from '../components/layouts/Newsletters';
 import Footer from '../components/footer/Footer';
  
-//
+
 import img from '../assets/images/background/img-register.jpg'
 import { auth, db } from '../firebase';
 
